@@ -1,0 +1,55 @@
+/* google fints */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common style / utilities */
+body {
+
+    .banner-text {
+
+        margin-top: 53px;
+        padding-left: 106px;
+        padding-bottom: 111px;
+
+    }
+
+    .banner-text h1 {
+        font-size: 70px;
+        font-weight: 700px;
+        line-height: 80px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 20px;
+
+    }
+
+    .banner-text p {
+        margin-bottom: 29px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+
+    .banner-text button {
+        background: rgba(221, 0, 0, 1);
+        color: white;
+        border-radius: 5px;
+        height: 57px;
+        width: 183px;
+        left: 246px;
+        top: 528px;
+        border-radius: 5px;
+        padding: 16px, 25px, 16px, 25px;
+    }
+
+    .banner img {
+        padding-top: 33px;
+        padding-right: 79px;
+        padding-bottom: 0px;
+        width: 581px;
+        height: 613px;
+        left: 801px;
+        top: 83px;
+    }
